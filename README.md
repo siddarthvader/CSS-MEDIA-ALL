@@ -25,6 +25,12 @@ you want to render your site on mobile viewport but you are not sure about the t
 
 ## Use CMA in your site?
 
+install using npm
+```bash
+npm install css-media-all --save
+```
+
+clone the git repo
 
 ```bash
 git clone https://github.com/siddarthvader/CSS-MEDIA-ALL.git

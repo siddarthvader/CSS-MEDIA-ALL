@@ -1,1 +1,3 @@
-var lodash=require('lodash');
+exports.printMsg = function() {
+  console.log("CSS MEDIA ALL");
+}
