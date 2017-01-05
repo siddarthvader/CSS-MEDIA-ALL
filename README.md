@@ -63,10 +63,12 @@ you want to render your site on mobile viewport but you are not sure about the t
 
 When it comes to `rem` you have to set the `font-size` of `html` tag, now in this module the default setting goes like this
 
-
+````bash
 | Desktop | Mobile(Portrait) | Mobile(Landscape) | Tab(Portrait) | Tab(Landscape) |
 |---------|------------------|-------------------|---------------|----------------|
 |  1vw    |       1.5vw      |        1vw        |       1.5vw   |        1vw     |
+````
+
 where `vw` is the % of width of view port;
 
 for example:
