@@ -350,7 +350,7 @@
 
 @media (max-device-width: 1280px) and (orientation: landscape) {
     html {
-        font-size: 1.5vw;
+        font-size: 1vw;
     }
 }
 
