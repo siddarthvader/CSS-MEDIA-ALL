@@ -16,6 +16,11 @@ install using npm
 npm install css-media-all --save
 ```
 
+install using bower
+```bash
+bower install css-media-all --save
+```
+
 clone the git repo
 
 ```bash

@@ -1,0 +1,27 @@
+{
+  "name": "css-media-all",
+   "version": "1.1.0",
+  "description": "css file with media queries for all devices",
+  "main": "index.js",
+  "authors": [
+    "siddarthvader (siddharthjn93@gmail.com)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "media",
+    "media",
+    "query",
+    "css",
+    "media",
+    "query"
+  ],
+  "homepage": "https://github.com/siddarthvader/CSS-MEDIA-ALL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
