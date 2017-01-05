@@ -1,7 +1,7 @@
 {
   "name": "css-media-all",
-  "version": "1.0.1",
-  "description": "css files with media queries for all devices",
+  "version": "1.0.2",
+  "description": "css file with media queries for all devices",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

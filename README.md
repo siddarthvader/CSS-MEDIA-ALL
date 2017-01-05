@@ -25,7 +25,7 @@ git clone https://github.com/siddarthvader/CSS-MEDIA-ALL.git
 Add to your CSS
 
 ```bash
-import url('css-media.all.css');
+import url('css-media-all.css');
 
 p {
     font-size:1rem;// this `rem` unit is now a variable and you can use it the way you want
@@ -45,7 +45,7 @@ Add to your html (this is standard setting, in case you forget)
 ## Idea behind it
 for years we developers/designers are constantly arguing which is the best unit for css measurements, is it `px` or `em` or `rem` or `vw` or `mm`? nobody has a solid answer to it, because it varies according understanding of developer, but one thing remain unchanged which is rendering of page.
 
-I personally find 'rem' to be the best of all, it is relative to the `font-size` of `html` tag, i mean now you have an absolute base unit which is directly dependent on the `font-size` property of `html`, what more can you ask for?
+I personally find `rem` to be the best of all, it is relative to the `font-size` of `html` tag, i mean now you have an absolute base unit which is directly dependent on the `font-size` property of `html`, what more can you ask for?
 
 with `rem`, you want to zoom-in your site?
 * change the `font-size` of `html` tag?
