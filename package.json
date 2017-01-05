@@ -1,6 +1,6 @@
 {
   "name": "css-media-all",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "css files with media queries for all devices",
   "main": "index.js",
   "scripts": {
