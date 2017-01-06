@@ -46,6 +46,8 @@ Add to your html (this is standard setting, in case you forget)
     <meta name="viewport" content="width=device-width, initial-scale=1">
 ````
 
+>## this is advised that refrain using `rem` in width property, use `%` for width;
+
 
 ## Idea behind it
 for years we developers/designers are constantly arguing which is the best unit for css measurements, is it `px` or `em` or `rem` or `vw` or `mm`? nobody has a solid answer to it, because it varies according understanding of developer, but one thing remain unchanged which is rendering of page.
