@@ -1,6 +1,6 @@
 {
   "name": "css-media-all",
-  "version": "1.2",
+  "version": "1.2.0",
   "description": "css file with media queries for all devices",
   "main": "css-media-all.min.css",
   "authors": [
