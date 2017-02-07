@@ -8,6 +8,7 @@ the media queries used in this library is a LIFTOFF from [CSS tricks](https://cs
 
 > ### Support
 > it is written in vanila CSS and is mostly supported in all major browsers
+> it is a small libarary for small websites where you dont have different code for desktop and mobile
 
 ## Use CMA in your site?
 
@@ -68,7 +69,7 @@ When it comes to `rem` you have to set the `font-size` of `html` tag, now in thi
 ````bash
 | Desktop | Mobile(Portrait) | Mobile(Landscape) | Tab(Portrait) | Tab(Landscape) |
 |---------|------------------|-------------------|---------------|----------------|
-|  1vw    |       1.5vw      |        1vw        |       1.5vw   |        1vw     |
+|  .65vw    |       1.5vw      |        .65vw        |       1.5vw   |        1vw     |
 ````
 
 where `vw` is the % of width of view port;
